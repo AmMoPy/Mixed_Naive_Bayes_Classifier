@@ -1,0 +1,15 @@
+outlook,temp,humidity,wind,pressure,adv_days,tickets_sold,play
+Sunny,Hot,High,0,33.48742951751629,7.0,43,No
+Sunny,Hot,High,1,34.59498316157768,8.0,41,No
+Overcast,Hot,High,0,33.43614843044394,24.0,96,Yes
+Rain,Mild,High,0,30.186766774913167,18.0,64,Yes
+Rain,Cool,Normal,0,29.13217889670863,16.0,97,Yes
+Rain,Cool,Normal,1,33.57839549505234,7.0,26,No
+Overcast,Cool,Normal,1,27.86468718835752,14.0,79,Yes
+Sunny,Mild,High,0,36.53147994264554,12.0,41,No
+Sunny,Cool,Normal,0,29.790529667324797,18.0,57,Yes
+Rain,Mild,Normal,0,29.897680237958678,18.0,81,Yes
+Sunny,Mild,Normal,1,27.510965439673047,14.0,67,Yes
+Overcast,Mild,High,1,28.5286708001987,15.0,84,Yes
+Overcast,Hot,Normal,0,28.206787211248873,15.0,62,Yes
+Rain,Mild,High,1,32.888417698081966,6.0,32,No
